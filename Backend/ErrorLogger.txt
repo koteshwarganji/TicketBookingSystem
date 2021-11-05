@@ -1,0 +1,332 @@
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:2:1446)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:1439
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:2:939)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:2:907

@@ -1,0 +1,20 @@
+[
+    {
+       "bookingId" : 1001,
+       "mobile" : 9998887777,
+       "dateOfJourney" : "2030-10-28",
+       "seats" : ["A170","A171"]
+    },{
+       
+       "bookingId" : 1002,
+       "mobile" : 8889997777,
+       "dateOfJourney" : "2030-10-20",
+       "seats" : ["A172","A173","A174"]
+ 
+    },{
+        "bookingId" : 1003,
+        "mobile" : 7777888999,
+        "dateOfJourney" : "2030-10-20",
+        "seats" : ["A175","A176"]
+    }
+]

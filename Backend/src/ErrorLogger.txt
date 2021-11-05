@@ -1,0 +1,460 @@
+Thu Oct 28 2021 - ValidationError: Flight validation failed: dateOfJourney: showDate is not defined
+    at model.Document.invalidate (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Thu Oct 28 2021 - TypeError: Cannot read property 'length' of undefined
+    at Object.model.checkNoOfTicketsBooked (E:\TicketBookingSystem\Backend\src\model\data.js:27:50)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:41:32)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - TypeError: Cannot read property 'length' of undefined
+    at Object.model.checkNoOfTicketsBooked (E:\TicketBookingSystem\Backend\src\model\data.js:28:50)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:42:32)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - TypeError: Cannot read property 'length' of undefined
+    at Object.model.checkNoOfTicketsBooked (E:\TicketBookingSystem\Backend\src\model\data.js:28:50)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:42:32)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - TypeError: Cannot read property 'length' of undefined
+    at Object.model.checkNoOfTicketsBooked (E:\TicketBookingSystem\Backend\src\model\data.js:28:50)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:42:32)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - TypeError: Cannot read property 'length' of undefined
+    at Object.model.checkNoOfTicketsBooked (E:\TicketBookingSystem\Backend\src\model\data.js:28:50)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:42:32)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - ReferenceError: dataObj is not defined
+    at Object.model.checkNoOfTicketsBooked (E:\TicketBookingSystem\Backend\src\model\data.js:26:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:46:32)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - TypeError: Cannot read property 'length' of undefined
+    at Object.model.checkNoOfTicketsBooked (E:\TicketBookingSystem\Backend\src\model\data.js:33:49)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:46:32)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - ValidationError: Flight validation failed: dateOfJourney: Cast to date failed for value "29/10/2030" (type string) at path "dateOfJourney"
+    at model.Document.invalidate (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2907:32)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1447:12)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1149:16)
+    at model.Document (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:158:12)
+    at model.Model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:106:12)
+    at new model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:4763:15)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3112:22
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3148:7
+    at Array.forEach (<anonymous>)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3147:15
+Thu Oct 28 2021 - TypeError: Date(...).toLocaleDateString is not a function
+    at Object.model.bookTickets (E:\TicketBookingSystem\Backend\src\model\data.js:50:67)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:16:16)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - ValidationError: Flight validation failed: dateOfJourney: Cast to date failed for value "29/10/2030" (type string) at path "dateOfJourney"
+    at model.Document.invalidate (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2907:32)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1447:12)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1149:16)
+    at model.Document (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:158:12)
+    at model.Model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:106:12)
+    at new model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:4763:15)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3112:22
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3148:7
+    at Array.forEach (<anonymous>)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3147:15
+Thu Oct 28 2021 - ValidationError: Flight validation failed: dateOfJourney: Cast to date failed for value "29/10/2030" (type string) at path "dateOfJourney"
+    at model.Document.invalidate (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2907:32)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1447:12)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1149:16)
+    at model.Document (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:158:12)
+    at model.Model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:106:12)
+    at new model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:4763:15)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3112:22
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3148:7
+    at Array.forEach (<anonymous>)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3147:15
+Thu Oct 28 2021 - ValidationError: Flight validation failed: dateOfJourney: Cast to date failed for value "29/10/2030" (type string) at path "dateOfJourney"
+    at model.Document.invalidate (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2907:32)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1447:12)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1149:16)
+    at model.Document (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:158:12)
+    at model.Model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:106:12)
+    at new model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:4763:15)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3112:22
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3148:7
+    at Array.forEach (<anonymous>)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3147:15
+Thu Oct 28 2021 - ValidationError: Flight validation failed: dateOfJourney: Cast to date failed for value "29/10/2030" (type string) at path "dateOfJourney"
+    at model.Document.invalidate (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2907:32)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1447:12)
+    at model.$set (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:1149:16)
+    at model.Document (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:158:12)
+    at model.Model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:106:12)
+    at new model (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:4763:15)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3112:22
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3148:7
+    at Array.forEach (<anonymous>)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\model.js:3147:15
+Thu Oct 28 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:20:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:33:20
+Thu Oct 28 2021 - ReferenceError: collection is not defined
+    at Object.model.getBookingsByDate (E:\TicketBookingSystem\Backend\src\model\data.js:65:20)
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:27:32)
+    at E:\TicketBookingSystem\Backend\src\routes\routing.js:34:34
+    at Layer.handle [as handle_request] (E:\TicketBookingSystem\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\TicketBookingSystem\Backend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\TicketBookingSystem\Backend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\TicketBookingSystem\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at E:\TicketBookingSystem\Backend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\TicketBookingSystem\Backend\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\TicketBookingSystem\Backend\node_modules\express\lib\router\index.js:275:10)
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - TypeError: bookings[i].dateOfJourney.toLocaleDate is not a function
+    at Object.model.getBookingsByDate (E:\TicketBookingSystem\Backend\src\model\data.js:70:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:27:20)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Thu Oct 28 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Thu Oct 28 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Mon Oct 28 2030 00:00:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Mon Oct 28 2030 00:00:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Mon Oct 28 2030 00:00:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Mon Oct 28 2030 00:00:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Mon Oct 28 2030 05:30:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Mon Oct 28 2030 05:30:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Mon Oct 28 2030 05:30:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Sun Oct 10 2021 05:30:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Sun Oct 24 2021 05:30:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\BackEnd\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:21:20
+Fri Oct 29 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\BackEnd\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:21:20
+Fri Oct 29 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\BackEnd\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:21:20
+Fri Oct 29 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\BackEnd\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:21:20
+Fri Oct 29 2021 - Error: No Seats available
+    at Object.service.getSeats (E:\TicketBookingSystem\BackEnd\src\service\data.js:42:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:46:20
+Fri Oct 29 2021 - Error: No Seats available
+    at Object.service.getSeats (E:\TicketBookingSystem\BackEnd\src\service\data.js:42:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:46:20
+Fri Oct 29 2021 - Error: No Seats available
+    at Object.service.getSeats (E:\TicketBookingSystem\BackEnd\src\service\data.js:42:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:46:20
+Fri Oct 29 2021 - MongoServerError: Cannot do inclusion on field seats in exclusion projection
+    at MessageStream.messageHandler (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\connection.js:467:30)
+    at MessageStream.emit (node:events:394:28)
+    at processIncomingData (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:749:22)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:312:12)
+Fri Oct 29 2021 - MongoServerError: Cannot do inclusion on field seats in exclusion projection
+    at MessageStream.messageHandler (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\connection.js:467:30)
+    at MessageStream.emit (node:events:394:28)
+    at processIncomingData (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:749:22)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:312:12)
+Fri Oct 29 2021 - MongoServerError: Cannot do inclusion on field seats in exclusion projection
+    at MessageStream.messageHandler (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\connection.js:467:30)
+    at MessageStream.emit (node:events:394:28)
+    at processIncomingData (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\message_stream.js:108:16)
+    at MessageStream._write (E:\TicketBookingSystem\BackEnd\node_modules\mongodb\lib\cmap\message_stream.js:28:9)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at Socket.ondata (node:internal/streams/readable:749:22)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:312:12)
+Fri Oct 29 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\BackEnd\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:21:20
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Validator failed for path `dateOfJourney` with value `Sun Oct 24 2021 05:30:00 GMT+0530 (India Standard Time)`
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - ValidationError: Flight validation failed: dateOfJourney: Date should be greater than today
+    at model.Document.invalidate (E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\BackEnd\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Fri Oct 29 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\BackEnd\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\BackEnd\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: No Bookings on given date
+    at Object.service.getBookingsByDate (E:\TicketBookingSystem\Backend\src\service\data.js:31:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:34:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - Error: Tickets are not booked,You can book maximum of 6 tickets on same number
+    at Object.service.bookTickets (E:\TicketBookingSystem\Backend\src\service\data.js:20:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async E:\TicketBookingSystem\Backend\src\routes\routing.js:21:20
+Sat Oct 30 2021 - ValidationError: Flight validation failed: dateOfJourney: Date should be greater than today
+    at model.Document.invalidate (E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2907:32)
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\document.js:2698:17
+    at E:\TicketBookingSystem\Backend\node_modules\mongoose\lib\schematype.js:1280:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)

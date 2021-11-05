@@ -1,0 +1,10 @@
+<div class="container-fluid">
+    <div class="col-md-8 offset-md-2 col-sm-8 offset-sm-2 col-xs-8 offset-xs-2">
+       <h2>Ticket Booking System</h2> 
+       <button type="button" class="btn btn-primary " (click)="isbook=true">Book</button>
+        &nbsp;&nbsp;
+       <button type="button" class="btn btn-primary " (click)="isbook=false">Details</button>
+    </div>
+</div>
+<app-book *ngIf="isbook"></app-book>
+<app-details *ngIf="!isbook"></app-details>

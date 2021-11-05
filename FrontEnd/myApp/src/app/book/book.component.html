@@ -1,0 +1,36 @@
+<div class="container-fluid">
+    <div class="col-md-8 offset-md-2 col-sm-8 offset-sm-2 col-xs-8 offset-xs-2">
+        <h3>Book Tickets</h3>
+        <form [formGroup]="bookingForm" (ngSubmit)="bookTickets()">
+            <div class="form-group">
+                <label for="mobile">Mobile Number</label>
+                <input type="number" class="form-control" formControlName="mobile" placeholder="Enter Mobile Number" id="mobile">
+            </div>
+            <div class="form-group">
+                <label for="dateOfJourney">Date Of Journey</label>
+                <input type="date" class="form-control" formControlName="dateOfJourney" placeholder="Enter Date Of Jurney" id="dateOfJourney">
+            </div>
+            <div class="form-group">
+                <label>Book Seats</label>
+                <div *ngFor="let row of arrayOfSeats">
+                    <button *ngFor="let seat of row" type="button" value="{{seat}}" class="btn btn-success col-md-3 col-sm-3 col-xs-3" style="border:1px solid black;" id="{{seat}}" (click)="bookSeat(seat)">{{seat}}</button>
+                </div>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-info" [disabled]="!bookingForm.valid">Book Tickets</button>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="col-md-8 offset-md-2">
+        <h4 *ngIf="successMessage" class="text-success">
+            {{successMessage}}
+        </h4>
+        <h4 *ngIf="errorMessage" class="text-danger">
+            {{errorMessage}}
+        </h4>
+    </div>
+</div>
+
+<!-- {{bookingForm.value | json}} -->

@@ -1,0 +1,28 @@
+<div class="container-fluid">
+    <div class="col-md-8 offset-md-2">
+        <h3>Get Bookings By Date</h3>
+        <div class="form-group">
+            <label>Choose Date</label>
+            <input type="date" class="form-control"  #dateRef (change)="bookingDetails(dateRef.value)">
+        </div>
+        <div *ngIf="details && details.length>0">
+            <table class="table table-bordered">
+                <tr>
+                    <th>S.No</th>
+                    <th>bookingId</th>
+                    <th>Seats</th>
+                    <th>Mobile</th>
+                </tr>
+                <tr *ngFor="let data of details;let i=index">
+                    <td>{{i+1}}</td>
+                    <td>{{data.bookingId}}</td>
+                    <td>{{data.seats}}</td>
+                    <td>{{data.mobile}}</td>
+                </tr>
+            </table>
+        </div>
+        <h4 *ngIf="errorMessage" class="text-danger">
+            {{errorMessage}}
+        </h4>
+    </div>
+</div>
